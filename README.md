@@ -1,4 +1,5 @@
 # FaceOrientationHons
 
 Only bFacesIntense is properly commented and notated.
-Will be updated when edits are made for efficiency/clarity.
+Will be updated when edits are made for efficiency/clarity.  
+Additional files, and PsychToolbox are required to run code.
