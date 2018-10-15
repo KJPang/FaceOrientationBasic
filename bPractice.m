@@ -17,6 +17,7 @@ function bPractice(subjID,subjVert,oriMean,acq,relativeSurr)
 %    and subsequently modified CC 02.03.06 for subjective vertical estimation
 %
 % The remaining (non-psi) components of this code were written by Matt Patten on 26 May, 2014.
+% Code was modified into a practice trial task for facial stimuli by Kieran Pang, 2018
 %
 % Inputs:
 %      subjID  - A string consisting of the initials of the participant. This is used to save a unique results file.
